@@ -3,7 +3,7 @@
 # conda activate deeplearn_course
 # note: It took 10 min to install the environment
 
-name: deeplearn_course
+# name: deeplearn_course
 channels:
   - pypi # pip
   - conda-forge # numpy/scipy/rdkit etc
